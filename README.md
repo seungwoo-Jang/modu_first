@@ -21,6 +21,6 @@ __italic__
 print("hello MD")
 ```
 line break  line break  line break
-![dogs](./KakaoTalk_Photo_2023-04-26-11-15-44.jpeg)
+![dogs](KakaoTalk_Photo_2023-04-26-11-15-44.jpeg)
 
-<img scr="./KakaoTalk_Photo_2023-04-26-11-15-44.jpeg" width="450px" height="300px"></img>
+<img scr="KakaoTalk_Photo_2023-04-26-11-15-44.jpeg" width="450px" height="300px"></img>
